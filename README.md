@@ -49,28 +49,16 @@ Currently pursuing my **BCA from GLA University**, I've already completed 20+ fr
 
 <p align="center">
   <span style="background:#1e293b; border-radius:10px; padding:10px; display:inline-block; margin:6px;">
-    <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" height="48" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,py,c,mongodb,nodejs,react&theme=dark" alt="Python" height="48" />
   </span>
+
+  
+  <p align = "center">  
   <span style="background:#1e293b; border-radius:10px; padding:10px; display:inline-block; margin:6px;">
-    <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" height="48" />
-  </span>
-  <span style="background:#1e293b; border-radius:10px; padding:10px; display:inline-block; margin:6px;">
-    <img src="https://skillicons.dev/icons?i=scikitlearn&theme=dark" alt="Scikit-learn" height="48" />
-  </span>
-  <span style="background:#1e293b; border-radius:10px; padding:10px; display:inline-block; margin:6px;">
-    <img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask" height="48" />
+    <img src="https://skillicons.dev/icons?i=blender,figma,ps,xd,ae&theme=dark" alt="Flask" height="48" />
   </span>
 </p>
 <p align = "center">
- <span style="background:#1e293b; border-radius:10px; padding:10px; display:inline-block; margin:6px;">
-  <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" alt="Pandas" height="48" />
- </span>
- <span style="background:#1e293b; border-radius:10px; padding:10px; display:inline-block; margin:6px;">
-  <img src="https://www.svgrepo.com/show/354127/numpy.svg" alt="NumPy" height="48" />
- </span>
- <span style="background:#1e293b; border-radius:10px; padding:10px; display:inline-block; margin:6px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="48" />
- </span>
 </p>
 
 
