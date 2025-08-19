@@ -12,7 +12,7 @@ Currently pursuing my **BCA from GLA University**, I've already completed 20+ fr
 
 ### 🧰 Tech Stack
 - **Languages:** JavaScript, HTML5, CSS3,, Python, C, JAVA
-- **Frameworks:** React.js, Express.js, Node.js
+- **Frameworks:** React.js, Node.js
 - **Databases:** MongoDB
 - **Tools:** Git, GitHub, Figma, Adobe Photoshop, Adobe After Effect, Adobe Premiere pro, 
 
