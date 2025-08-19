@@ -4,7 +4,7 @@ I'm a passionate **Frontend Developer** and **UI/UX Designer** from Uttar Prades
 Currently pursuing my **BCA from GLA University**, I've already completed 20+ freelance projects — helping real-world clients turn their ideas into clean, responsive, and functional websites.
 
 ### 🚀 What I Do
-- 💡 Design intuitive UI/UX layouts using **Figma**
+- 💡 Design intuitive UI/UX layouts using **Figma, Adobe XD**
 - 🔧 Build web apps using **HTML, CSS, JavaScript, React.js**
 - 🔗 Connect frontends to backends using **Node.js + MongoDB**
 
