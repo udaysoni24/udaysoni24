@@ -35,15 +35,22 @@ Currently pursuing my **BCA from GLA University**, I've already completed 20+ fr
 ### 📫 Let's Connect!
 - 🌐 Portfolio: *(coming soon – let me know when it's live)*  
 - 🐙 GitHub: [github.com/udaysoni](https://github.com/udaysoni)  
-- 💼 LinkedIn: *(add link here)*  
+- 💼 My Work Degine:
+- 1. Live Websites - https://www.felixify.in/
+- 2. Live Websites - https://www.combat360mma.com/
+- 3. Live Websites - https://www.tribeultra.store/
+  
+- 💼 My Figma Degine:
+- https://drive.google.com/drive/folders/165FW5ZMB_t8Ya-KqR_-uJvRmNggnWo-D?usp=sharing
 
----
+- 💼 My Other Degines:
+- https://drive.google.com/drive/folders/1f4ivbFhDy10N_UzxRpNxPG-UiTyt7BMZ?usp=sharing
+
+-----------------------------------------------------------------------------------------
 
 > “I don't just write code — I design experiences.”
 
-
-
----
+-----------------------------------------------------------------------------------------
 
 ## 🛠️ Skills & Tools
 
