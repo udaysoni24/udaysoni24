@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Uday! 
 
 I'm a passionate **Frontend Developer** and **UI/UX Designer** from Uttar Pradesh, India 🇮🇳.  
-Currently pursuing my **BCA from GLA University**, I've already completed 20+ freelance projects — helping real-world clients turn their ideas into clean, responsive, and functional websites.
+Currently pursuing my **BCA from GLA University**, I've already completed 40+ freelance projects — helping real-world clients turn their ideas into clean, responsive, and functional websites.
 
 ### 🚀 What I Do
 - 💡 Design intuitive UI/UX layouts using **Figma, Adobe XD**
